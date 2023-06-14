@@ -1,0 +1,61 @@
+@charset "utf-8";
+.container-fluid {
+    background-image: -webkit-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(6,40,58,1.00) 52.85%,rgba(0,60,98,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(6,40,58,1.00) 52.85%,rgba(0,60,98,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(6,40,58,1.00) 52.85%,rgba(0,60,98,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(0,0,0,1.00) 0%,rgba(6,40,58,1.00) 52.85%,rgba(0,60,98,1.00) 100%);
+}
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-image: -webkit-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(0,0,0,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(0,0,0,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(0,0,0,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(0,0,0,1.00) 0%,rgba(0,0,0,1.00) 100%);
+    background-color: undefined;
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+    color: rgba(255,255,255,1.00);
+}
+.container-fluid .container .text-capitalize.text-center {
+    color: rgba(255,255,255,1.00);
+}
+.row .col-lg-6 .card.col-md-4.col-lg-12 {
+    background-color: rgba(16,41,67,1.00);
+}
+
+.container .row .card.col-md-4.offset-lg-4.col-lg-5 {
+    background-color: rgba(19,44,70,1.00);
+}
+#accordion1 .card #headingOne1 {
+    background-color: rgba(7,46,83,1.00);
+}
+#headingOne1 .mb-0 a {
+    color: rgba(255,255,255,1.00);
+}
+#headingTwo1 .mb-0 .collapsed {
+    color: rgba(255,255,255,1.00);
+}
+.container #accordion1 .card {
+    background-color: rgba(11,34,55,1.00);
+}
+.card #collapseOne1 .card-body {
+    color: rgba(255,255,255,1.00);
+}
+.card #collapseTwo1 .card-body {
+    color: rgba(255,255,255,1.00);
+}
+.row .col-lg-6 p {
+    color: rgba(255,255,255,1.00);
+}
+
+
+
+
+
+
+
+.card.col-md-4.col-lg-12 .card-body .card-text.text-center {
+    color: rgba(255,255,255,1.00);
+}
+.card.col-md-4.offset-lg-4.col-lg-5 .card-body .card-text.text-center {
+    color: rgba(255,255,255,1.00);
+}
